@@ -10,29 +10,23 @@ vai te levar a uma página mostrando os requisitos mínimos e recomendados do ga
 
 ## Imagens do Blog
 ### Home
-![InfoBlog](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/10b0d1e7-d773-4b1f-9d78-a50f5557feb7)
+<img width="1600" height="651" alt="WhatsApp Image 2026-07-20 at 14 00 01" src="https://github.com/user-attachments/assets/da6647a3-507a-4ac8-be15-0eda1599312c" />
+
 <br><br>
 ### Jogos
 ![jogos](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/565c2889-d240-4403-9f43-359aeb35704e)
 <br><br>
 ### Requisitos
-![requisitos](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/b95ded40-2b25-4f6e-ac6a-74bece593b2d)
+<img width="1600" height="652" alt="WhatsApp Image 2026-07-20 at 14 00 42" src="https://github.com/user-attachments/assets/fcac18dc-60d4-421f-9dfa-cd7ece31983d" />
 <br><br>
 ### Celulares
-![Celulares](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/d5813c03-3c94-4120-a43c-59d4ce4ce18e)
-<br><br>
-### Ficha Técnica Celulares
-![Ficha-Tecnica](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/6f315e4b-6d7c-4cf9-b895-94f0cd92c1ed)
+<img width="1600" height="653" alt="WhatsApp Image 2026-07-20 at 14 01 11" src="https://github.com/user-attachments/assets/be6ef990-2fcd-4ad8-b55b-4191ee84bf11" />
 <br><br>
 ### Informática
-![Informática](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/78dfa66e-b4ef-42f1-b3ef-d487471ff216)
+<img width="1600" height="648" alt="WhatsApp Image 2026-07-20 at 14 01 31" src="https://github.com/user-attachments/assets/d03bea57-34fe-48de-a51f-1adf5ca09a73" />
 <br><br>
 ### Especificações Processador
-![Especificações-processador](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/968f58d9-c243-4321-93d1-6a4a615ac27c)
+<img width="1600" height="650" alt="WhatsApp Image 2026-07-20 at 14 01 43" src="https://github.com/user-attachments/assets/7c67e39d-951b-4f15-bd5a-b0b3e44ce7a6" />
 <br><br>
 ### Entretenimento
-![Entretenimento](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/9459c24c-e37c-422f-947f-1768328f5524)
-<br><br>
-### Matéria Gear 5
-![História-Gear-5](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/10948e5b-646b-4cc2-8ed3-6f5493a2e4fb)
-
+<img width="1600" height="649" alt="WhatsApp Image 2026-07-20 at 14 02 02" src="https://github.com/user-attachments/assets/46d064df-91d1-4bba-8745-cf4c27f9d00c" />
