@@ -16,7 +16,8 @@ vai te levar a uma página mostrando os requisitos mínimos e recomendados do ga
 <br><br>
 
 ## Jogos
-![jogos](https://github.com/Matheus0016/Blog_de_noticias_tecnologias_entretenimento/assets/119771263/565c2889-d240-4403-9f43-359aeb35704e)
+<img width="1600" height="650" alt="WhatsApp Image 2026-07-20 at 14 00 22" src="https://github.com/user-attachments/assets/5fd9e19c-a3ea-43b3-899e-47afe7b18220" />
+
 
 <br><br>
 
